@@ -2,6 +2,7 @@
   "name": "zinevy-framework",
   "version": "1.0.2",
   "main": "node_modules/expo/AppEntry.js",
+  "version": "1.0.0",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
